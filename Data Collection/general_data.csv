@@ -1,0 +1,101 @@
+;id;symbol;name;market_cap
+0;bitcoin;btc;Bitcoin;597154318217
+1;ethereum;eth;Ethereum;284480972382
+2;tether;usdt;Tether;83300816616
+3;binancecoin;bnb;BNB;54430242803
+4;usd-coin;usdc;USD Coin;48410597132
+5;ripple;xrp;XRP;25114158381
+6;solana;sol;Solana;22960991065
+7;cardano;ada;Cardano;22108229476
+8;binance-usd;busd;Binance USD;17164167304
+9;terrausd;ust;TerraUSD;15917989513
+10;dogecoin;doge;Dogecoin;14731959168
+11;polkadot;dot;Polkadot;12800008686
+12;avalanche-2;avax;Avalanche;12395403393
+13;staked-ether;steth;Lido Staked Ether;9733529785
+14;terra-luna;luna;Terra;9313582240
+15;shiba-inu;shib;Shiba Inu;9078981451
+16;wrapped-bitcoin;wbtc;Wrapped Bitcoin;8918829967
+17;tron;trx;TRON;7899630938
+18;dai;dai;Dai;7006339619
+19;near;near;NEAR Protocol;6733963157
+20;matic-network;matic;Polygon;6297350968
+21;crypto-com-chain;cro;Cronos;5961427825
+22;litecoin;ltc;Litecoin;5657605887
+23;leo-token;leo;LEO Token;5102366020
+24;ftx-token;ftt;FTX Token;4563509042
+25;bitcoin-cash;bch;Bitcoin Cash;4415354828
+26;cosmos;atom;Cosmos Hub;4145011064
+27;chainlink;link;Chainlink;4082650095
+28;algorand;algo;Algorand;4077103723
+29;okb;okb;OKB;3791712835
+30;stellar;xlm;Stellar;3714955187
+31;ethereum-classic;etc;Ethereum Classic;3251254819
+32;monero;xmr;Monero;3099504914
+33;uniswap;uni;Uniswap;2831752544
+34;vechain;vet;VeChain;2660512495
+35;frax;frax;Frax;2635718462
+36;apecoin;ape;ApeCoin;2628388520
+37;internet-computer;icp;Internet Computer;2504810119
+38;elrond-erd-2;egld;Elrond;2431370648
+39;hedera-hashgraph;hbar;Hedera;2366646741
+40;filecoin;fil;Filecoin;2305282853
+41;the-sandbox;sand;The Sandbox;2175406663
+42;axie-infinity;axs;Axie Infinity;2018774035
+43;compound-ether;ceth;cETH;1993607443
+44;magic-internet-money;mim;Magic Internet Money;1961866708
+45;defichain;dfi;DeFiChain;1905251632
+46;tezos;xtz;Tezos;1901627554
+47;theta-fuel;tfuel;Theta Fuel;1886178774
+48;theta-token;theta;Theta Network;1820836412
+49;bonded-luna;bluna;Bonded Luna;1799319675
+50;pancakeswap-token;cake;PancakeSwap;1746983382
+51;the-graph;grt;The Graph;1732405650
+52;decentraland;mana;Decentraland;1729803152
+53;eos;eos;EOS;1727704183
+54;aave;aave;Aave;1481924912
+55;flow;flow;Flow;1471290662
+56;thorchain;rune;THORChain;1459089902
+57;fantom;ftm;Fantom;1455222537
+58;klay-token;klay;Klaytn;1414817402
+59;kucoin-shares;kcs;KuCoin Token;1403372470
+60;compound-usd-coin;cusdc;cUSDC;1392514350
+61;bittorrent;btt;BitTorrent;1380718863
+62;chain-2;xcn;Chain;1361360211
+63;true-usd;tusd;TrueUSD;1299925625
+64;huobi-token;ht;Huobi Token;1287949285
+65;convex-finance;cvx;Convex Finance;1276780782
+66;waves;waves;Waves;1230439415
+67;huobi-btc;hbtc;Huobi BTC;1222154949
+68;bitcoin-cash-sv;bsv;Bitcoin SV;1220266880
+69;zcash;zec;Zcash;1198192488
+70;helium;hnt;Helium;1196152576
+71;stepn;gmt;STEPN;1151084617
+72;ecash;xec;eCash;1150141060
+73;frax-share;fxs;Frax Share;1124603964
+74;iota;miota;IOTA;1102461295
+75;maker;mkr;Maker;1090856136
+76;osmosis;osmo;Osmosis;1056024234
+77;zilliqa;zil;Zilliqa;1009746979
+78;radix;xrd;Radix;1002843315
+79;neo;neo;NEO;994789576
+80;nexo;nexo;NEXO;994446600
+81;cdai;cdai;cDAI;984544381
+82;quant-network;qnt;Quant;982932433
+83;paxos-standard;usdp;Pax Dollar;971103482
+84;arweave;ar;Arweave;917915227
+85;neutrino;usdn;Neutrino USD;905561842
+86;gatechain-token;gt;GateToken;894691408
+87;celo;celo;Celo;863976433
+88;bitdao;bit;BitDAO;854384430
+89;kusama;ksm;Kusama;854147168
+90;gala;gala;Gala;846115599
+91;curve-dao-token;crv;Curve DAO Token;788582656
+92;dash;dash;Dash;786276191
+93;enjincoin;enj;Enjin Coin;781236913
+94;chiliz;chz;Chiliz;773562205
+95;harmony;one;Harmony;773431902
+96;compound-usdt;cusdt;cUSDT;755746582
+97;mina-protocol;mina;Mina Protocol;747761239
+98;havven;snx;Synthetix Network Token;745453162
+99;blockstack;stx;Stacks;733195037
